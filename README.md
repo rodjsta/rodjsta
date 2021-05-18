@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 Currently working on a Laravel project (middleware billing engine) <br>
+📫 Reach out on [LinkedIn](https://linkedin.com/in/rodstaines)
+
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 <!--
